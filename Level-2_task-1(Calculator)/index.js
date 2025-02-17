@@ -23,4 +23,4 @@ for (item of buttons) {
         }
 
     })
-}
+};
